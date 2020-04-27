@@ -1,5 +1,8 @@
 # KSP-configs
 A collection of Kerbal Space Program configuration files. (ModuleManager, etc.)
+Unless otherwise specified, these are licensed under the BSD 3-clause license.
+
+The version numbering system is <kspversion><cfgversion> (e.g. 1.9.0A). It is designed to work with that version of KSP and corresponding versions of other mods. It may work with newer/older ones, but it might not.
 
 Config | Author | Function | Requires | Version
 --- | --- | --- | --- | ---
