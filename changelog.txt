@@ -1,1 +1,3 @@
-
+27 April 2020
+- Fixed NavalBomb.cfg (commented out attach node lines)
+- Updated JDSA Naval Parts (now with DaVinci textures)
