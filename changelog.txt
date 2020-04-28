@@ -1,3 +1,6 @@
+28 April 2020
+- NavalBomb.cfg - 1.9.1D - Add naval missile and naval cannon
+
 27 April 2020
 - NavalBomb.cfg - 1.9.1C - Fixed NavalBomb.cfg (commented out attach node lines)
 - JDSANavalParts.cfg - 1.9.1G - Updated JDSA Naval Parts (now with DaVinci textures)
