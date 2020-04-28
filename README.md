@@ -8,7 +8,7 @@ TO INSTALL: place in GameData/CustomConfigs
 
 Config | Author | Function | Requires | Version
 --- | --- | --- | --- | ---
-JDSANavalParts.cfg | Jatwaa | A series of ModuleManager patches to create new naval parts from stock parts. | ModuleManager, TweakScale, DaVinci Space Combat Kit, (DLCs recommended) | 1.9.1G
+JDSANavalParts.cfg | Jatwaa | A series of ModuleManager patches to create new naval parts from stock parts. | ModuleManager, TweakScale, DaVinci Space Combat Kit, (DLCs recommended) | 1.9.1H
 Karborundum-tweak.cfg | Jatwaa | Makes Karborundum weightless | ModuleManager, ESLD Beacons | 1.9.1B
 KF_reinforcer.cfg | SYZYGY-DEV333 | Improves the strength of Kerbal Foundries wheels. | Kerbal Foundries, ModuleManager | 1.9.1B
 NavalBomb.cfg | SYZYGY-DEV333 | A large bomb, missile, and cannon for BDArmory, for use against big things like ships. | BDArmory, ModuleManager, TweakScale, warhead_tweak_patch.cfg | 1.9.1D
